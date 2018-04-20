@@ -1,4 +1,7 @@
 # coursera-test
 Setup Test for Coursera Data Science Course 
-## Secondary Heading
+## Markdown Practice
 ### Tertiary Heading 
+* one
+* two 
+* three
